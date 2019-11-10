@@ -161,18 +161,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>ALMANACH Study Group</title>
-      <link>https://ben-mlr.github.io/resources/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ben-mlr.github.io/resources/</guid>
-      <description>&lt;p&gt;September 2019&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;HEmotion Detection with Neural Personal Discrimination presented by Gaël Guibon &lt;a href=&#34;https://drive.google.com/drive/folders/172mK5a7zInclSGAOSOIoBuyj3OWUwsq4&#34; target=&#34;_blank&#34;&gt;[slides]&lt;/a&gt; &lt;a href=&#34;https://arxiv.org/pdf/1908.10703.pdf&#34; target=&#34;_blank&#34;&gt;[paper]&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
