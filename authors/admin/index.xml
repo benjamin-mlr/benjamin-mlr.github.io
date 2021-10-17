@@ -1,16 +1,80 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title></title>
     <link>https://ben-mlr.github.io/authors/admin/</link>
       <atom:link href="https://ben-mlr.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <description></description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ben-mlr.github.io/img/icon-192.png</url>
-      <title>Academic</title>
+      <title></title>
       <link>https://ben-mlr.github.io/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Cross-Lingual GENQA: A Language-Agnostic Generative Question Answering Approach for Open-Domain Question Answering</title>
+      <link>https://ben-mlr.github.io/publication/crossgenqa/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/publication/crossgenqa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When Being Unseen from mBERT is just the Beginning: Handling New Languages With Multilingual Language Models</title>
+      <link>https://ben-mlr.github.io/publication/unseen-languages/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/publication/unseen-languages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Align, then Predict: Understanding the Cross-Lingual Ability of Multilingual BERT</title>
+      <link>https://ben-mlr.github.io/publication/first-align-then-predict/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/publication/first-align-then-predict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ITU Copenhagen, When Being unseen by mBERT is just the beginning, Handling New Languages With Multilingual Language Models</title>
+      <link>https://ben-mlr.github.io/talks/itu/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/talks/itu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EDF Data Innovation Lab, Paris, CamemBERT: a Tasty French Language Model</title>
+      <link>https://ben-mlr.github.io/talks/edf/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/talks/edf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bar Ilan University, Tel-Aviv, Transfer Learning on an Unseen North-African Arabic Dialect, December 2019</title>
+      <link>https://ben-mlr.github.io/talks/bar-ilan/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/talks/bar-ilan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing BERT for Lexical Normalization</title>
+      <link>https://ben-mlr.github.io/publication/bert-lexnorm/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/publication/bert-lexnorm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Learning for Handling Code-Mixed Data: A Case Study on POS Tagging of North-African Arabizi Dialect</title>
+      <link>https://ben-mlr.github.io/publication/narabizi-adaptation/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/publication/narabizi-adaptation/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
