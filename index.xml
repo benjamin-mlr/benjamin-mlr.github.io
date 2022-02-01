@@ -5,7 +5,7 @@
     <link>https://ben-mlr.github.io/</link>
       <atom:link href="https://ben-mlr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Home</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ben-mlr.github.io/img/icon-192.png</url>
       <title>Home</title>
@@ -162,6 +162,14 @@
     </item>
     
     <item>
+      <title>George Mason Natural Language Processing Group , Virginia, Toward a Cross-Lingual Generative Question Answering System</title>
+      <link>https://ben-mlr.github.io/talks/gmu/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/talks/gmu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cross-Lingual GENQA: A Language-Agnostic Generative Question Answering Approach for Open-Domain Question Answering</title>
       <link>https://ben-mlr.github.io/publication/crossgenqa/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
@@ -187,9 +195,9 @@
     
     <item>
       <title>ITU Copenhagen, When Being unseen by mBERT is just the beginning, Handling New Languages With Multilingual Language Models</title>
-      <link>https://ben-mlr.github.io/talks/itu/</link>
+      <link>https://ben-mlr.github.io/talks/itu-copenhagen/</link>
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://ben-mlr.github.io/talks/itu/</guid>
+      <guid>https://ben-mlr.github.io/talks/itu-copenhagen/</guid>
       <description></description>
     </item>
     

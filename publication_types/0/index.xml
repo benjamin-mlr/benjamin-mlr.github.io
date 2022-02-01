@@ -5,7 +5,7 @@
     <link>https://ben-mlr.github.io/publication_types/0/</link>
       <atom:link href="https://ben-mlr.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ben-mlr.github.io/img/icon-192.png</url>
       <title>0</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>ITU Copenhagen, When Being unseen by mBERT is just the beginning, Handling New Languages With Multilingual Language Models</title>
-      <link>https://ben-mlr.github.io/talks/itu/</link>
-      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://ben-mlr.github.io/talks/itu/</guid>
+      <title>George Mason Natural Language Processing Group , Virginia, Toward a Cross-Lingual Generative Question Answering System</title>
+      <link>https://ben-mlr.github.io/talks/gmu/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/talks/gmu/</guid>
       <description></description>
     </item>
     
