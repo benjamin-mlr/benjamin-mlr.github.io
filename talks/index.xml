@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks | Home</title>
+    <title>JHU CSLP Seminar, Cross-Lingual Transfer with Multilingual Language Models | Home</title>
     <link>https://ben-mlr.github.io/talks/</link>
       <atom:link href="https://ben-mlr.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
-    <description>Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <description>JHU CSLP Seminar, Cross-Lingual Transfer with Multilingual Language Models</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ben-mlr.github.io/img/icon-192.png</url>
-      <title>Talks</title>
+      <title>JHU CSLP Seminar, Cross-Lingual Transfer with Multilingual Language Models</title>
       <link>https://ben-mlr.github.io/talks/</link>
     </image>
+    
+    <item>
+      <title>JHU CSLP Seminar, Cross-Lingual Transfer with Multilingual Language Models</title>
+      <link>https://ben-mlr.github.io/talks/jhu/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/talks/jhu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>George Mason Natural Language Processing Group , Virginia, Toward a Cross-Lingual Generative Question Answering System</title>
