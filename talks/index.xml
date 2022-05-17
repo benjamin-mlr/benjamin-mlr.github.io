@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JHU CSLP Seminar, Cross-Lingual Transfer with Multilingual Language Models | Home</title>
+    <title>Talks | Home</title>
     <link>https://ben-mlr.github.io/talks/</link>
       <atom:link href="https://ben-mlr.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
-    <description>JHU CSLP Seminar, Cross-Lingual Transfer with Multilingual Language Models</description>
+    <description>Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ben-mlr.github.io/img/icon-192.png</url>
-      <title>JHU CSLP Seminar, Cross-Lingual Transfer with Multilingual Language Models</title>
+      <title>Talks</title>
       <link>https://ben-mlr.github.io/talks/</link>
     </image>
     

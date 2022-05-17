@@ -79,11 +79,6 @@
   </url>
   
   <url>
-    <loc>https://ben-mlr.github.io/talks/</loc>
-    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ben-mlr.github.io/talks/jhu/</loc>
     <lastmod>2022-03-31T00:00:00+00:00</lastmod>
   </url>
@@ -100,6 +95,11 @@
   
   <url>
     <loc>https://ben-mlr.github.io/tags/</loc>
+    <lastmod>2022-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ben-mlr.github.io/talks/</loc>
     <lastmod>2022-03-31T00:00:00+00:00</lastmod>
   </url>
   
