@@ -5,7 +5,7 @@
     <link>https://ben-mlr.github.io/publication/</link>
       <atom:link href="https://ben-mlr.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ben-mlr.github.io/img/icon-192.png</url>
       <title>Publication</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Cross-Lingual GENQA: A Language-Agnostic Generative Question Answering Approach for Open-Domain Question Answering</title>
       <link>https://ben-mlr.github.io/publication/crossgenqa/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://ben-mlr.github.io/publication/crossgenqa/</guid>
       <description></description>
     </item>

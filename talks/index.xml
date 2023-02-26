@@ -5,12 +5,36 @@
     <link>https://ben-mlr.github.io/talks/</link>
       <atom:link href="https://ben-mlr.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ben-mlr.github.io/img/icon-192.png</url>
       <title>Talks</title>
       <link>https://ben-mlr.github.io/talks/</link>
     </image>
+    
+    <item>
+      <title>DFKI Saarbrücke, MLT lab talk series</title>
+      <link>https://ben-mlr.github.io/talks/dfki/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/talks/dfki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lessons from the Camembert Model, Francophone @Indaba</title>
+      <link>https://ben-mlr.github.io/talks/indaba/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/talks/indaba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutoriel: Hands-on CamemBERT: Une Introduction au Modèle CamemBERT, Deep Voice Series, IRCAM</title>
+      <link>https://ben-mlr.github.io/talks/deepvoice/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/talks/deepvoice/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Institut Pasteur, Imaging and Modeling lab from the Department of Computational Biology Seminar, Camembert and Beyond</title>
