@@ -5,12 +5,36 @@
     <link>https://ben-mlr.github.io/publication/</link>
       <atom:link href="https://ben-mlr.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ben-mlr.github.io/img/icon-192.png</url>
       <title>Publication</title>
       <link>https://ben-mlr.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>SPIRIT-LM: Interleaved Spoken and Written Language Model</title>
+      <link>https://ben-mlr.github.io/publication/spiritlm/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/publication/spiritlm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating and Modeling Attribution for Cross-Lingual Question Answering</title>
+      <link>https://ben-mlr.github.io/publication/xorattriqa/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/publication/xorattriqa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Gender-GAP Pipeline: A Gender-Aware Polyglot Pipeline for Gender Characterisation in 55 Languages</title>
+      <link>https://ben-mlr.github.io/publication/gendergap/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://ben-mlr.github.io/publication/gendergap/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cross-Lingual GENQA: A Language-Agnostic Generative Question Answering Approach for Open-Domain Question Answering</title>
@@ -53,7 +77,7 @@
     </item>
     
     <item>
-      <title>Unsupervised Learning for Handling Code-Mixed Data: A Case Study on POS Tagging of North-African Arabizi Dialect</title>
+      <title>Can Multilingual Language Models Transfer to an Unseen Dialect? A Case Study on North African Arabizi</title>
       <link>https://ben-mlr.github.io/publication/narabizi-adaptation/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://ben-mlr.github.io/publication/narabizi-adaptation/</guid>

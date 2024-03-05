@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Researcher in Natural Language Processing">
+  <meta name="description" content="AI Researcher">
 
   
   <link rel="alternate" hreflang="en-us" href="https://ben-mlr.github.io/publication_types/1/">
@@ -118,10 +118,10 @@
   <meta property="og:site_name" content="Home">
   <meta property="og:url" content="https://ben-mlr.github.io/publication_types/1/">
   <meta property="og:title" content="1 | Home">
-  <meta property="og:description" content="Researcher in Natural Language Processing"><meta property="og:image" content="https://ben-mlr.github.io/img/icon-192.png">
+  <meta property="og:description" content="AI Researcher"><meta property="og:image" content="https://ben-mlr.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://ben-mlr.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2022-06-22T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2023-12-01T00:00:00&#43;00:00">
   
 
   
@@ -377,6 +377,33 @@
   
   
   <div>
+    <h2><a href="/publication/xorattriqa/">Evaluating and Modeling Attribution for Cross-Lingual Question Answering</a></h2>
+    <div class="article-style">
+      
+      Trustworthy answer content is abundant in many high-resource languages and is instantly accessible through question answering systems — yet this content can be hard to access for those that do not speak these languages. The leap forward in cross-lingual modeling quality offered by generative language models offers much promise, yet their raw generations often fall short in factuality. To improve trustworthiness in these systems, a promising direction is to attribute the answer to a retrieved source, possibly in a content-rich language different from the query. Our work is the first to study attribution for cross-lingual question answering. First, we collect data in 5 languages to assess the attribution level of a state-of-the-art cross-lingual QA system. To our surprise, we find that a substantial portion of the answers is not attributable to any retrieved passages (up to 50% of answers exactly matching a gold reference) despite the system being able to attend directly to the retrieved text. Second, to address this poor attribution level, we experiment with a wide range of attribution detection techniques. We find that Natural Language Inference models and PaLM 2 fine-tuned on a very small amount of attribution data can accurately detect attribution. With these models, we improve the attribution level of a cross-lingual QA system. Overall, we show that current academic generative cross-lingual QA systems have substantial shortcomings in attribution and we build tooling to mitigate these issues.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/gendergap/">The Gender-GAP Pipeline: A Gender-Aware Polyglot Pipeline for Gender Characterisation in 55 Languages</a></h2>
+    <div class="article-style">
+      
+      Gender biases in language generation systems are challenging to mitigate. One possible source for these biases is gender representation disparities in the training and evaluation data. Despite recent progress in documenting this problem and many attempts at mitigating it, we still lack shared methodology and tooling to report gender representation in large datasets. Such quantitative reporting will enable further mitigation, e.g., via data augmentation. This paper describes the Gender-Gap Pipeline (for Gender-Aware Polyglot Pipeline), an automatic pipeline to characterize gender representation in large-scale datasets for 55 languages. The pipeline uses a multilingual lexicon of gendered person-nouns to quantify the gender representation in text. We showcase it to report gender representation in WMT training data and development data for the News task, confirming that current data is skewed towards masculine representation. Having unbalanced datasets may indirectly optimize our systems towards outperforming one gender over the others. We suggest introducing our gender quantification pipeline in current datasets and, ideally, modifying them toward a balanced representation.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/crossgenqa/">Cross-Lingual GENQA: A Language-Agnostic Generative Question Answering Approach for Open-Domain Question Answering</a></h2>
+    <div class="article-style">
+      
+      Open-Retrieval Generative Question Answering (GENQA) is proven to deliver high-quality, natural-sounding answers in English. In this paper, we present the first generalization of the GENQA approach for the multilingual environment. To this end, we present the GEN-TYDIQA dataset, which extends the TyDiQA evaluation data (Clark et al., 2020) with natural-sounding, well-formed answers in Arabic, Bengali, English, Japanese, and Russian. For all these languages, we show that a GENQA sequence-to-sequence-based model outperforms a state-of-the-art Answer Sentence Selection model. We also show that a multilingually-trained model competes with, and in some cases outperforms, its monolingual counterparts. Finally, we show that our system can even compete with strong baselines, even when fed with information from a variety of languages. Essentially, our system is able to answer a question in any language of our language set using information from many languages, making it the first LanguageAgnostic GENQA system
+      
+    </div>
+  </div>
+  
+  <div>
     <h2><a href="/talks/institut-pasteur/">Institut Pasteur, Imaging and Modeling lab from the Department of Computational Biology Seminar, Camembert and Beyond</a></h2>
     <div class="article-style">
       
@@ -429,17 +456,17 @@
     </div>
   </div>
   
-  <div>
-    <h2><a href="/publication/narabizi-adaptation/">Unsupervised Learning for Handling Code-Mixed Data: A Case Study on POS Tagging of North-African Arabizi Dialect</a></h2>
-    <div class="article-style">
-      
-      Language model pretrained representation are now ubiquitous in Natural Language Processing. In this work, we present some first results in adapting those models to Out-of-Domain textual data. Using Part-of-Speech tagging as our case study, we analyze the ability of BERT to model a complex North-African Dialect NArabizi.
-      
-    </div>
-  </div>
-  
 
   
+<nav>
+  <ul class="pagination justify-content-center">
+    
+    
+    <li class="page-item"><a class="page-link" href="/publication_types/1/page/2/">&raquo;</a></li>
+    
+  </ul>
+</nav>
+
 
 </div>
 

@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Researcher in Natural Language Processing">
+  <meta name="description" content="AI Researcher">
 
   
   <link rel="alternate" hreflang="en-us" href="https://ben-mlr.github.io/publication_types/3/">
@@ -118,10 +118,10 @@
   <meta property="og:site_name" content="Home">
   <meta property="og:url" content="https://ben-mlr.github.io/publication_types/3/">
   <meta property="og:title" content="3 | Home">
-  <meta property="og:description" content="Researcher in Natural Language Processing"><meta property="og:image" content="https://ben-mlr.github.io/img/icon-192.png">
+  <meta property="og:description" content="AI Researcher"><meta property="og:image" content="https://ben-mlr.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://ben-mlr.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2022-09-01T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2024-02-01T00:00:00&#43;00:00">
   
 
   
@@ -377,10 +377,10 @@
   
   
   <div>
-    <h2><a href="/publication/crossgenqa/">Cross-Lingual GENQA: A Language-Agnostic Generative Question Answering Approach for Open-Domain Question Answering</a></h2>
+    <h2><a href="/publication/spiritlm/">SPIRIT-LM: Interleaved Spoken and Written Language Model</a></h2>
     <div class="article-style">
       
-      Open-Retrieval Generative Question Answering (GENQA) is proven to deliver high-quality, natural-sounding answers in English. In this paper, we present the first generalization of the GENQA approach for the multilingual environment. To this end, we present the GEN-TYDIQA dataset, which extends the TyDiQA evaluation data (Clark et al., 2020) with natural-sounding, well-formed answers in Arabic, Bengali, English, Japanese, and Russian. For all these languages, we show that a GENQA sequence-to-sequence-based model outperforms a state-of-the-art Answer Sentence Selection model. We also show that a multilingually-trained model competes with, and in some cases outperforms, its monolingual counterparts. Finally, we show that our system can even compete with strong baselines, even when fed with information from a variety of languages. Essentially, our system is able to answer a question in any language of our language set using information from many languages, making it the first LanguageAgnostic GENQA system
+      We introduce SPIRIT-LM, a foundation multimodal language model that freely mixes text and speech. Our model is based on a pretrained text language model that we extend to the speech modality by continuously training it on text and speech units. Speech and text sequences are concatenated as a single set of tokens, and trained with a word-level interleaving method using a small automatically-curated speech-text parallel corpus. SPIRIT-LM comes in two versionsm a BASE version that uses speech semantic units and an EXPRESSIVE version that models expressivity using pitch and style units in addition to the semantic units. For both versions, the text is encoded with subword BPE tokens. The resulting model displays both the semantic abilities of text models and the expressive abilities of speech models. Additionally, we demonstrate that SPIRIT-LM is able to learn new tasks in a few-shot fashion across modalities (i.e. ASR, TTS, Speech Classification).
       
     </div>
   </div>

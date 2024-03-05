@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Researcher in Natural Language Processing">
+  <meta name="description" content="AI Researcher">
 
   
   <link rel="alternate" hreflang="en-us" href="https://ben-mlr.github.io/tags/source-themes/">
@@ -118,10 +118,10 @@
   <meta property="og:site_name" content="Home">
   <meta property="og:url" content="https://ben-mlr.github.io/tags/source-themes/">
   <meta property="og:title" content="Source Themes | Home">
-  <meta property="og:description" content="Researcher in Natural Language Processing"><meta property="og:image" content="https://ben-mlr.github.io/img/icon-192.png">
+  <meta property="og:description" content="AI Researcher"><meta property="og:image" content="https://ben-mlr.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://ben-mlr.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2023-01-10T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2024-02-01T00:00:00&#43;00:00">
   
 
   
@@ -377,6 +377,33 @@
   
   
   <div>
+    <h2><a href="/publication/spiritlm/">SPIRIT-LM: Interleaved Spoken and Written Language Model</a></h2>
+    <div class="article-style">
+      
+      We introduce SPIRIT-LM, a foundation multimodal language model that freely mixes text and speech. Our model is based on a pretrained text language model that we extend to the speech modality by continuously training it on text and speech units. Speech and text sequences are concatenated as a single set of tokens, and trained with a word-level interleaving method using a small automatically-curated speech-text parallel corpus. SPIRIT-LM comes in two versionsm a BASE version that uses speech semantic units and an EXPRESSIVE version that models expressivity using pitch and style units in addition to the semantic units. For both versions, the text is encoded with subword BPE tokens. The resulting model displays both the semantic abilities of text models and the expressive abilities of speech models. Additionally, we demonstrate that SPIRIT-LM is able to learn new tasks in a few-shot fashion across modalities (i.e. ASR, TTS, Speech Classification).
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/xorattriqa/">Evaluating and Modeling Attribution for Cross-Lingual Question Answering</a></h2>
+    <div class="article-style">
+      
+      Trustworthy answer content is abundant in many high-resource languages and is instantly accessible through question answering systems — yet this content can be hard to access for those that do not speak these languages. The leap forward in cross-lingual modeling quality offered by generative language models offers much promise, yet their raw generations often fall short in factuality. To improve trustworthiness in these systems, a promising direction is to attribute the answer to a retrieved source, possibly in a content-rich language different from the query. Our work is the first to study attribution for cross-lingual question answering. First, we collect data in 5 languages to assess the attribution level of a state-of-the-art cross-lingual QA system. To our surprise, we find that a substantial portion of the answers is not attributable to any retrieved passages (up to 50% of answers exactly matching a gold reference) despite the system being able to attend directly to the retrieved text. Second, to address this poor attribution level, we experiment with a wide range of attribution detection techniques. We find that Natural Language Inference models and PaLM 2 fine-tuned on a very small amount of attribution data can accurately detect attribution. With these models, we improve the attribution level of a cross-lingual QA system. Overall, we show that current academic generative cross-lingual QA systems have substantial shortcomings in attribution and we build tooling to mitigate these issues.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/publication/gendergap/">The Gender-GAP Pipeline: A Gender-Aware Polyglot Pipeline for Gender Characterisation in 55 Languages</a></h2>
+    <div class="article-style">
+      
+      Gender biases in language generation systems are challenging to mitigate. One possible source for these biases is gender representation disparities in the training and evaluation data. Despite recent progress in documenting this problem and many attempts at mitigating it, we still lack shared methodology and tooling to report gender representation in large datasets. Such quantitative reporting will enable further mitigation, e.g., via data augmentation. This paper describes the Gender-Gap Pipeline (for Gender-Aware Polyglot Pipeline), an automatic pipeline to characterize gender representation in large-scale datasets for 55 languages. The pipeline uses a multilingual lexicon of gendered person-nouns to quantify the gender representation in text. We showcase it to report gender representation in WMT training data and development data for the News task, confirming that current data is skewed towards masculine representation. Having unbalanced datasets may indirectly optimize our systems towards outperforming one gender over the others. We suggest introducing our gender quantification pipeline in current datasets and, ideally, modifying them toward a balanced representation.
+      
+    </div>
+  </div>
+  
+  <div>
     <h2><a href="/talks/dfki/">DFKI Saarbrücke, MLT lab talk series</a></h2>
     <div class="article-style">
       
@@ -422,29 +449,6 @@
   
   <div>
     <h2><a href="/talks/gmu/">George Mason Natural Language Processing Group , Virginia, Toward a Cross-Lingual Generative Question Answering System</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/unseen-languages/">When Being Unseen from mBERT is just the Beginning: Handling New Languages With Multilingual Language Models</a></h2>
-    <div class="article-style">
-      
-      Transfer learning based on pretraining language models on a large amount of raw data has become a new norm to reach state-of-the-art performance in NLP. Still, it remains unclear how this approach should be applied for unseen languages that are not covered by any available large-scale multilingual language model and for which only a small amount of raw data is generally available. In this work, by comparing multilingual and monolingual models, we show that such models behave in multiple ways on unseen languages. Some languages greatly benefit from transfer learning and behave similarly to closely related high resource languages whereas others apparently do not. Focusing on the latter, we show that this failure to transfer is largely related to the impact of the script used to write such languages. We show that transliterating those languages significantly improves the potential of large-scale multilingual language models on downstream tasks. This result provides a promising direction towards making these massively multilingual models useful for a new set of unseen languages.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/first-align-then-predict/">First Align, then Predict: Understanding the Cross-Lingual Ability of Multilingual BERT</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/talks/itu-copenhagen/">ITU Copenhagen, When Being unseen by mBERT is just the beginning, Handling New Languages With Multilingual Language Models</a></h2>
     <div class="article-style">
       
     </div>
