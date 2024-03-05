@@ -1,0 +1,24 @@
+@inproceedings{muller-etal-2023-evaluating,
+    title = "Evaluating and Modeling Attribution for Cross-Lingual Question Answering",
+    author = "Muller, Benjamin  and
+      Wieting, John  and
+      Clark, Jonathan  and
+      Kwiatkowski, Tom  and
+      Ruder, Sebastian  and
+      Soares, Livio  and
+      Aharoni, Roee  and
+      Herzig, Jonathan  and
+      Wang, Xinyi",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-main.10",
+    doi = "10.18653/v1/2023.emnlp-main.10",
+    pages = "144--157",
+    abstract = "Trustworthy answer content is abundant in many high-resource languages and is instantly accessible through question answering systems {---} yet this content can be hard to access for those that do not speak these languages. The leap forward in cross-lingual modeling quality offered by generative language models offers much promise, yet their raw generations often fall short in factuality. To improve trustworthiness in these systems, a promising direction is to attribute the answer to a retrieved source, possibly in a content-rich language different from the query. Our work is the first to study attribution for cross-lingual question answering. First, we collect data in 5 languages to assess the attribution level of a state-of-the-art cross-lingual QA system. To our surprise, we find that a substantial portion of the answers is not attributable to any retrieved passages (up to 50{\%} of answers exactly matching a gold reference) despite the system being able to attend directly to the retrieved text. Second, to address this poor attribution level, we experiment with a wide range of attribution detection techniques. We find that Natural Language Inference models and PaLM 2 fine-tuned on a very small amount of attribution data can accurately detect attribution. With these models, we improve the attribution level of a cross-lingual QA system. Overall, we show that current academic generative cross-lingual QA systems have substantial shortcomings in attribution and we build tooling to mitigate these issues.",
+}
