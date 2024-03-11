@@ -2,33 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ben-mlr.github.io/post/slider/</loc>
-  </url><url>
-    <loc>https://ben-mlr.github.io/post/hero/</loc>
-  </url><url>
-    <loc>https://ben-mlr.github.io/post/demo/</loc>
-  </url><url>
     <loc>https://ben-mlr.github.io/post/skills/</loc>
+    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ben-mlr.github.io/back/experience/</loc>
   </url><url>
-    <loc>https://ben-mlr.github.io/post/accomplishments/</loc>
-  </url><url>
-    <loc>https://ben-mlr.github.io/post/posts/</loc>
-  </url><url>
-    <loc>https://ben-mlr.github.io/post/projects/</loc>
-  </url><url>
-    <loc>https://ben-mlr.github.io/post/people/</loc>
-  </url><url>
-    <loc>https://ben-mlr.github.io/post/resources/</loc>
-  </url><url>
-    <loc>https://ben-mlr.github.io/post/talks/</loc>
-  </url><url>
-    <loc>https://ben-mlr.github.io/post/featured/</loc>
-  </url><url>
-    <loc>https://ben-mlr.github.io/post/tags/</loc>
-  </url><url>
     <loc>https://ben-mlr.github.io/back/contact/</loc>
+  </url><url>
+    <loc>https://ben-mlr.github.io/</loc>
+    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ben-mlr.github.io/post/</loc>
+    <lastmod>2024-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ben-mlr.github.io/authors/admin/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
@@ -49,9 +34,6 @@
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ben-mlr.github.io/authors/gabriel-synnaeve/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ben-mlr.github.io/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ben-mlr.github.io/authors/itai-gat/</loc>
@@ -234,6 +216,12 @@
     <loc>https://ben-mlr.github.io/authors/pedro-javier-ortiz-suarez/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ben-mlr.github.io/media/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ben-mlr.github.io/media/camembert-2/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ben-mlr.github.io/authors/yoann-dupont/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -251,7 +239,5 @@
     <loc>https://ben-mlr.github.io/back/</loc>
   </url><url>
     <loc>https://ben-mlr.github.io/categories/</loc>
-  </url><url>
-    <loc>https://ben-mlr.github.io/post/</loc>
   </url>
 </urlset>
