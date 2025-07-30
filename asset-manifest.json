@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca1fab35.css",
-    "main.js": "/static/js/main.b3022e6b.js",
+    "main.css": "/static/css/main.c0938f62.css",
+    "main.js": "/static/js/main.5945798c.js",
+    "static/media/mathematical-background.jpg": "/static/media/mathematical-background.5428daf26c36b13923c8.jpg",
     "index.html": "/index.html",
-    "main.ca1fab35.css.map": "/static/css/main.ca1fab35.css.map",
-    "main.b3022e6b.js.map": "/static/js/main.b3022e6b.js.map"
+    "main.c0938f62.css.map": "/static/css/main.c0938f62.css.map",
+    "main.5945798c.js.map": "/static/js/main.5945798c.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca1fab35.css",
-    "static/js/main.b3022e6b.js"
+    "static/css/main.c0938f62.css",
+    "static/js/main.5945798c.js"
   ]
 }
